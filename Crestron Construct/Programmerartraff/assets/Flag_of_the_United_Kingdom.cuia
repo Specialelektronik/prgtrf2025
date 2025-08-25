@@ -1,0 +1,22 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "2.301.4.0"
+Created = 2025-08-20 08:34:33.269467+02:00
+LastModifiedByAppHost = "2.301.4.0"
+Modified = 2025-08-20 08:34:33.269461+02:00
+CreatedByProjectApp = "1.3901.5.0"
+LastModifiedByProjectApp = "1.3901.5.0"
+MinimumProjectApp = ""
+MinimumAppHost = "2.0.0"
+
+{AssetAttributes}
+
+[Attributes]
+Id = "25c94b80-8dd1-4f12-aaa1-9bf312e6c99a"
+Name = "Flag_of_the_United_Kingdom"
+SourceUri = "Flag_of_the_United_Kingdom.png"
+AspectRatio = "2"
+AssetSourceType = "File"
+Username = ""
+Password = ""
+

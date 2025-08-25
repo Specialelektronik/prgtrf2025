@@ -1,0 +1,27 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "2.301.4.0"
+Created = 2025-08-20 07:59:26.191737+02:00
+LastModifiedByAppHost = "2.301.4.0"
+Modified = 2025-08-20 08:04:57.179757+02:00
+CreatedByProjectApp = "1.3901.5.0"
+LastModifiedByProjectApp = "1.3901.5.0"
+MinimumProjectApp = "1.2600.1"
+MinimumAppHost = "2.0.0"
+
+{DeviceResolutionSource}
+[]
+
+{ProjectAttributes}
+
+[Attributes]
+Name = "Programmerartraff"
+ThemeId = "light-theme.css"
+ThemePageColor = "#ffffff"
+SdkId = "CH5:2.13.0"
+ComponentKey = "UiEditor"
+Id = "5980906d-e28f-4401-9630-524f71d6a72f"
+DeviceResolutionIds = "D-L-TST1080-1280-0800"
+ipId = "03"
+ProjectSchemaVersion = "6"
+

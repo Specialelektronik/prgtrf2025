@@ -1,0 +1,22 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "2.301.4.0"
+Created = 2025-08-20 08:32:51.564445+02:00
+LastModifiedByAppHost = "2.301.4.0"
+Modified = 2025-08-20 08:32:51.564439+02:00
+CreatedByProjectApp = "1.3901.5.0"
+LastModifiedByProjectApp = "1.3901.5.0"
+MinimumProjectApp = ""
+MinimumAppHost = "2.0.0"
+
+{AssetAttributes}
+
+[Attributes]
+Id = "059fbbf9-ba9c-4402-a8de-ea8ce624127d"
+Name = "Sweden"
+SourceUri = "Sweden.png"
+AspectRatio = "1.6"
+AssetSourceType = "File"
+Username = ""
+Password = ""
+

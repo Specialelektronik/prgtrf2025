@@ -1,0 +1,20 @@
+{
+  "_fileMetadata": {
+    "_schema": "1.0.0.0",
+    "_createdByAppHost": "2.301.4.0",
+    "_created": "2025-08-20T07:59:26.2489395+02:00",
+    "_lastModifiedByAppHost": "2.301.4.0",
+    "_minimumAppHost": "2.0.0",
+    "_modified": "2025-08-20T07:59:26.2489282+02:00"
+  },
+  "_solution": {
+    "_name": "Programmerartraff",
+    "_projects": [
+      {
+        "_name": "Programmerartraff",
+        "_filename": "Programmerartraff/Programmerartraff.cuip",
+        "_datetime": "2025-08-20T05:59:26.1192405Z"
+      }
+    ]
+  }
+}
