@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "sAoPzq2BxYU=",
+  "success": true,
+  "projectFilePath": "/Users/yuri.staal/RiderProjects/SE_Example_Program/SE_Example_Program/SE_Example_Program.csproj",
+  "expectedPackageFiles": [
+    "/Users/yuri.staal/.nuget/packages/crestron.simplsharp.sdk.library/2.21.133/crestron.simplsharp.sdk.library.2.21.133.nupkg.sha512",
+    "/Users/yuri.staal/.nuget/packages/crestron.simplsharp.sdk.program/2.21.133/crestron.simplsharp.sdk.program.2.21.133.nupkg.sha512",
+    "/Users/yuri.staal/.nuget/packages/crestron.simplsharp.sdk.programlibrary/2.21.133/crestron.simplsharp.sdk.programlibrary.2.21.133.nupkg.sha512"
+  ],
+  "logs": []
+}

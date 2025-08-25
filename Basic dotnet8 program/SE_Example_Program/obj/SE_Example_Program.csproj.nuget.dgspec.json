@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/yuri.staal/RiderProjects/SE_Example_Program/SE_Example_Program/SE_Example_Program.csproj": {}
+  },
+  "projects": {
+    "/Users/yuri.staal/RiderProjects/SE_Example_Program/SE_Example_Program/SE_Example_Program.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/yuri.staal/RiderProjects/SE_Example_Program/SE_Example_Program/SE_Example_Program.csproj",
+        "projectName": "SE_Example_Program",
+        "projectPath": "/Users/yuri.staal/RiderProjects/SE_Example_Program/SE_Example_Program/SE_Example_Program.csproj",
+        "packagesPath": "/Users/yuri.staal/.nuget/packages/",
+        "outputPath": "/Users/yuri.staal/RiderProjects/SE_Example_Program/SE_Example_Program/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/yuri.staal/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/Users/yuri.staal/Downloads/NuGet/Nightly": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Crestron.SimplSharp.SDK.Program": {
+              "target": "Package",
+              "version": "[2.21.133, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/yuri.staal/.dotnet/sdk/8.0.406/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
