@@ -1,0 +1,64 @@
+{
+  "information": {
+    "guid": "",
+    "building": "6 Volvo",
+    "floor": "1",
+    "support": "555-12345678"
+  },
+  "screens":
+  [
+    {
+      "name": "Display",
+      "output": 1,
+      "ipid": 10
+    }
+  ],
+  "sources":
+  [
+    {
+      "name": "Laptop",
+      "text": "Connect your laptop to start your presentation",
+      "image": "./app/project/assets/img/laptop.png",
+      "icon": 10,
+      "input": 1,
+      "rtsp_url": "rtsp://172.16.0.101:554/live.dsp",
+      "preview_url": "https://172.16.0.101/preview/preview_540px.jpeg",
+      "ipid": 11,
+      "control": false
+    },
+    {
+      "name": "AirMedia",
+      "text": "Connect the AirMedia adapter to start your presentation ",
+      "image": "./app/project/assets/img/connect_adapter.png",
+      "icon": 410,
+      "input": 2,
+      "rtsp_url": "rtsp://172.16.0.102:554/live.dsp",
+      "preview_url": "https://172.16.0.102/preview/preview_540px.jpeg",
+      "ipid": 12,
+      "control": false
+    },
+    {
+      "name": "AppleTV",
+      "text": "",
+      "image": "./app/project/assets/img/AppleTV.png",
+      "icon": 250,
+      "input": 3,
+      "rtsp_url": "rtsp://172.16.0.103:554/live.dsp",
+      "preview_url": "https://172.16.0.103/preview/preview_540px.jpeg",
+      "ipid": 13,
+      "control": true
+    },
+    {
+      "name": "Roku",
+      "text": "",
+      "image": "./app/project/assets/img/Roku.png",
+      "icon": 40,
+      "input": 4,
+      "rtsp_url": "rtsp://172.16.0.104:554/live.dsp",
+      "preview_url": "https://172.16.0.104/preview/preview_540px.jpeg",
+      "ipid": 14,
+      "control": true
+    }
+  ],
+  "last_update": ""
+} 
